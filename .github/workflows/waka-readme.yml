@@ -15,3 +15,9 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### commit
+          COMMIT_MESSAGE: 'Chore: Updated waka-readme graph with new metrics'
+          TARGET_BRANCH: main # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
