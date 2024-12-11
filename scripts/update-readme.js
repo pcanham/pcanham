@@ -20,7 +20,7 @@ async function updateReadme() {
 
   const badges = Array.from(technologies).map(tech => `!${tech}`).join(' ');
 
-  let readmeContent = fs.readFileSync('README.md', 'utf8');
+  let readmeContent = fs.readFileSync('../README.md', 'utf8');
   readmeContent = readmeContent.replace(/<!-- TECHNOLOGIES:START -->[\s\S]*<!-- TECHNOLOGIES:END -->/, `<!-- TECHNOLOGIES:START -->\n${badges}\n<!-- TECHNOLOGIES:END -->`);
 
   fs.writeFileSync('README.md', readmeContent);
