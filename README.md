@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!-- Coverage Comment:Begin -->
-<!-- Coverage Comment:End -->
+<!-- TECHNOLOGIES:START -->
+<!-- TECHNOLOGIES:END -->
 
 <!--START_SECTION:waka-->
 
