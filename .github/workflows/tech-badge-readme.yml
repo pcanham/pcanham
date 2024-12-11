@@ -20,10 +20,10 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install
+        run: cd scripts && npm install
 
       - name: Run script to update README
-        run: node scripts/update-readme.js
+        run: cd scripts && npm start
 
       - name: Commit and push changes
         run: |
