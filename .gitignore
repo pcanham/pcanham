@@ -1,0 +1,9 @@
+# Ignore node_modules directory
+scripts/node_modules/
+
+# Ignore package-lock.json file
+scripts/package-lock.json
+
+# Ignore npm debug log files
+npm-debug.log*
+scripts/npm-debug.log*
