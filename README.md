@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<!-- Coverage Comment:Begin -->
+<!-- Coverage Comment:End -->
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -11,3 +14,4 @@ Other   45 mins         >>>>>>>>>>>>>>-----------   54.63 %
 ```
 
 <!--END_SECTION:waka-->
+
