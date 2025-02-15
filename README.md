@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 12 February 2025
+From: 10 December 2024 - To: 13 February 2025
 
-Total Time: 31 hrs 53 mins
+Total Time: 31 hrs 59 mins
 
-Terraform    14 hrs 53 mins  >>>>>>>>>----------------   37.20 %
-YAML         10 hrs 19 mins  >>>>>>-------------------   25.80 %
-Other        8 hrs 8 mins    >>>>>--------------------   20.35 %
+Terraform    14 hrs 53 mins  >>>>>>>>>----------------   35.86 %
+YAML         10 hrs 26 mins  >>>>>>-------------------   25.13 %
+Other        9 hrs 31 mins   >>>>>>-------------------   22.95 %
 ```
 
 <!--END_SECTION:waka-->
