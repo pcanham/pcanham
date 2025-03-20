@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pcanham&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcanham&theme=radical)
+
+
 <!-- TECHNOLOGIES:START -->
 <!-- TECHNOLOGIES:END -->
 
