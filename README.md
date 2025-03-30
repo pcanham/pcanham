@@ -11,12 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 27 March 2025
+From: 10 December 2024 - To: 28 March 2025
 
 Total Time: 49 hrs 42 mins
 
-YAML         24 hrs 12 mins  >>>>>>>>>----------------   35.89 %
-Other        17 hrs 44 mins  >>>>>>>------------------   26.30 %
+YAML         24 hrs 12 mins  >>>>>>>>>----------------   35.85 %
+Other        17 hrs 48 mins  >>>>>>>------------------   26.38 %
 ```
 
 <!--END_SECTION:waka-->
